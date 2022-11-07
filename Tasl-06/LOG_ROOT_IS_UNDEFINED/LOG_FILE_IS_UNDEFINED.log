@@ -1,0 +1,3 @@
+17:05:47.473 [main] INFO  API.Demo - Customer found : {"email":"admin@email.com","id":"12345","ssn":"856-45-6789"}
+17:08:52.717 [main] INFO  API.Demo - Customer found : {"email":"admin@email.com","id":"12345","ssn":"856-45-6789"}
+17:09:10.720 [main] INFO  API.Demo - Customer found : {"email":"admin@email.com","id":"12345","ssn":"856-45-6789"}
